@@ -23,4 +23,5 @@ Once the dataset was ready, I used Matplotlib and NumPy to visualize key insight
 5. Department Composition – A pie chart showing the percentage of employees per department.
 
 These visualizations provided a clear view of the workforce distribution, pay structure, and experience levels within the organization.
-#some row are ntentionally kept empty to maintain the originality and accuracy of the dataset.
+
+#some row are intentionally kept empty to maintain the originality and accuracy of the dataset.
